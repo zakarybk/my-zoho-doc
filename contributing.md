@@ -7,6 +7,7 @@ Feel free to create a pull request to add or change pages. It's simple to locall
 * We recommend [nvm](https://github.com/nvm-sh/nvm) for handling multiple versions of node and npm.
 * NPM 6.9.0
 * Node v10.16.3
+* Git + working knowledge of source control (clone, pull, commit, merge, push, pull request)
 
 Other versions may work, but those are the versions which were used to generate the site. It's also possible to locally host the site using [Python instead.](https://jhildenbiddle.github.io/docsify-themeable/#/quick-start?id=local-preview)
 
