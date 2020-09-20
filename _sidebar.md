@@ -1,2 +1,2 @@
-* [HOME](/homepage)
-* [Contributing](contributing)
+* [Home](./homepage)
+* [Contributing](./contributing)
